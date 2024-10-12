@@ -1,7 +1,7 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
-*{
+body{
   background-image: url('./assets/Background.png');
   background-repeat: no-repeat;
   background-size: cover;
