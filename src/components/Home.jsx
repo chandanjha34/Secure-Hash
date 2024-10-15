@@ -1,9 +1,9 @@
 import React, { useRef } from "react";
-import logo from "../assets/logo.png";
-import menu from '../assets/menu.png';
-import image1 from '../assets/bitcoin.png'
-import image2 from '../assets/ethereum.png'
-import image3 from '../assets/Dogecoin.png'
+import logo from "../assets/Home Assets/logo.png";
+import menu from '../assets/Home Assets/menu.png';
+import image1 from '../assets/Home Assets/bitcoin.png'
+import image2 from '../assets/Home Assets/ethereum.png'
+import image3 from '../assets/Home Assets/DogeCoin.png'
 import gsap from "gsap";
 
 function Home() {

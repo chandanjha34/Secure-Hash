@@ -1,5 +1,4 @@
 body{
-    background-image: url('./assets/Background6.jpg');
-    background-repeat: no-repeat;
-    background-size:cover;
+    background-image: url('./assets/Home Assets/Background6.jpg');
+    background-attachment: fixed;
   }
